@@ -1,3 +1,4 @@
+# week 1 hw
 class Solution(object):
     def productExceptSelf(self, nums):
         """
@@ -28,4 +29,5 @@ class Solution(object):
         else: 
             for i in range(len(nums)): 
                 products.append(0)
+
         return products
