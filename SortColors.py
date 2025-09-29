@@ -1,3 +1,4 @@
+# week 1 hw
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
@@ -20,5 +21,6 @@ class Solution:
                 r -= 1
                 i -= 1 
             i += 1 
+
 
 
